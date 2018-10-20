@@ -1,5 +1,5 @@
 _repo: Winding-Paths_5636
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -26,5 +26,6 @@ subjects:
 - !lcc 'PR'
 - !lcsh 'Female friendship -- Fiction'
 - !lcsh 'London (England) -- Fiction'
+- GITenberg
 title: Winding Paths
 url: http://www.gutenberg.org/ebooks/5636
